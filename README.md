@@ -1,1 +1,1 @@
-Redirects my personal GitHub Pages site to the Parker Group website.
+This repository maintains the GitHub Pages address DMParker1.github.io and redirects visitors to the Parker Group website. The redirect is retained so that older links to my personal GitHub Pages site continue to work.
